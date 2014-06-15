@@ -3,7 +3,7 @@ use warnings;
 use utf8;
 
 for (my $count=0; $count < 10; $count++) {
-
-	print "hoge,foo,moga\n";
+	
+  print "hoge,foo,moga\n";
 }
 
